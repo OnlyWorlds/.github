@@ -1,5 +1,10 @@
 **OnlyWorlds** is an open standard for worldbuilding data: one shape for a world's characters, locations, institutions, events and the rest of its 22 element types, which any tool can read and write.
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://media.onlyworlds.com/onlyworlds/readme/types-row-light.webp">
+  <img alt="The 22 element types, each with its icon, in alphabetical order" src="https://media.onlyworlds.com/onlyworlds/readme/types-row-dark.webp">
+</picture>
+
 **The standard**
 - [OnlyWorlds](https://github.com/OnlyWorlds/OnlyWorlds): the schema, 22 element types in YAML
 - [schema-dist](https://github.com/OnlyWorlds/schema-dist): the schema packaged for tools, with a reference decoder
